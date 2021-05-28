@@ -1,4 +1,6 @@
-# DataMatrix-Reader
+# Datamatrix Reader
+
+[![DOI](https://zenodo.org/badge/371531762.svg)](https://zenodo.org/badge/latestdoi/371531762)
 
 Locate and decode datamatrix information from specimen images, created for the Digitization Department of the McGuire Center for Lepidoptera at the Florida Museum of Natural History. Given a collection of specimen images, the program will decode the datamatrix inside each image and rename / sort them according to a predefined, standardized naming scheme. Successful reads and edits, as well as failures, will be logged accordingly.
 
